@@ -12,6 +12,7 @@ function getTodoListFromLocalStorage() {
     }
 }
 
+
 let todoList = getTodoListFromLocalStorage();
 let todosCount = todoList.length;
 
